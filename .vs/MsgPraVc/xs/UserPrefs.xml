@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{777E611D-B40C-4973-8D6C-9FE29361681D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MsgPraVc.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MsgPraVc/MainPage.xaml">
+    <Files>
+      <File FileName="MsgPraVc/MainPage.xaml.cs" Line="37" Column="83" />
+      <File FileName="MsgPraVc/MainPage.xaml" Line="27" Column="23" />
+      <File FileName="../MsgPraTu/MsgPraTu/MainPage.xaml" Line="31" Column="15" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MsgPraTu" expanded="True">
+            <Node name="MsgPraTu" expanded="True" />
+          </Node>
+          <Node name="MsgPraVc" expanded="True">
+            <Node name="MsgPraVc" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MsgPraVc.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
