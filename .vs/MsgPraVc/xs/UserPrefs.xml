@@ -3,19 +3,16 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MsgPraVc/MainPage.xaml">
     <Files>
       <File FileName="MsgPraVc/MainPage.xaml.cs" Line="37" Column="83" />
-      <File FileName="MsgPraVc/MainPage.xaml" Line="27" Column="23" />
-      <File FileName="../MsgPraTu/MsgPraTu/MainPage.xaml" Line="31" Column="15" NotebookId="1" />
+      <File FileName="MsgPraVc/MainPage.xaml" Line="27" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MsgPraTu" expanded="True">
-            <Node name="MsgPraTu" expanded="True" />
-          </Node>
           <Node name="MsgPraVc" expanded="True">
             <Node name="MsgPraVc" expanded="True">
               <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
+            <Node name="MsgPraVc.Android" expanded="True" />
           </Node>
         </State>
       </Pad>

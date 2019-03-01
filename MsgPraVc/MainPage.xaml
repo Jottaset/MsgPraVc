@@ -4,9 +4,8 @@
              xmlns:local="clr-namespace:MsgPraVc"
              x:Class="MsgPraVc.MainPage">
     
-    <StackLayout>
-        <!-- Place new controls here -->
-        <StackLayout Padding="5, 10">
+    <StackLayout Padding="5, 10">
+    <!-- Place new controls here -->
             
         <Label Text="Mensagem para VC"
                HorizontalOptions="Center"
@@ -24,6 +23,5 @@
                x:Name="Mensagem_button"
                 
                 />
-        </StackLayout>
     </StackLayout>
 </ContentPage>
